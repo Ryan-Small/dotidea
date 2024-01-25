@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://www.xfa.org/schema/xfa-data/1.0/" />
+  </component>
+</application>
