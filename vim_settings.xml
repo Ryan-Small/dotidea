@@ -34,9 +34,6 @@
         <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
         <text encoding="base64">c2hpZnQgcHJlc3NlZCBFTlRFUg==</text>
       </shortcut-conflict>
     </shortcut-conflicts>
