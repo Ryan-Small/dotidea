@@ -1,8 +1,8 @@
 <application>
   <component name="LafManager">
-    <laf themeId="CUSTOM" />
+    <laf themeId="DARKER" />
     <lafs-to-previous-schemes>
-      <laf-to-scheme laf="CUSTOM" scheme="AutumnGloom" />
+      <laf-to-scheme laf="CUSTOM" scheme="_@user_Material Darker" />
       <laf-to-scheme laf="DARKER" scheme="AutumnGloom" />
       <laf-to-scheme laf="Dark" scheme="_@user_Nord" />
     </lafs-to-previous-schemes>
